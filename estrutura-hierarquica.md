@@ -1,32 +1,41 @@
-# 🧭 SecFrame BR – Estrutura Hierárquica de Áreas da Segurança da Informação
+# 🧭 Estrutura Hierárquica (SecFrame BR)
 
-## 1. Governança, Risco e Compliance (GRC / White Team)
-- Governança e Estratégia
-- Riscos e Compliance
-- Privacidade e Proteção de Dados
-- Gestão de Terceiros
-
-## 2. Segurança Defensiva (Blue Team)
-- Operações de Segurança (SOC, SIEM/SOAR, Threat Hunting, Threat Intel)
-- Resposta a Incidentes (IR)
-- Forense Digital
-- Infraestrutura e Redes
-- Segurança em Nuvem
-- Segurança de Aplicações
-
-## 3. Segurança Ofensiva (Red Team)
-- Pentest
-- Engenharia Social
-- Red Teaming Avançado
-- Exploit Development
-
-## 4. Desenvolvimento Seguro (Purple Team / DevSecOps)
-- Secure SDLC
-- DevSecOps
-- Threat Modeling & Revisão de Código
-
-## 5. Especializações Transversais
-- Criptografia e PKI
-- Identidade e Acessos
-- IoT / OT Security
-- IA e Automação
+```
+carreiras/
+├── grc/
+│   ├── cargos/
+│   │   ├── analista-governanca.md
+│   │   ├── analista-compliance.md
+│   │   ├── gestor-seguranca.md
+│   │   └── dpo.md
+│
+├── blue-team/
+│   ├── cargos/
+│   │   ├── analista-soc.md
+│   │   └── engenheiro-defesa.md
+│   └── especializacoes/
+│       ├── cloud-security/
+│       ├── incident-response/
+│       ├── forense-digital/
+│       ├── threat-hunting/
+│       ├── siem-soar/
+│       ├── iot-ot/
+│       └── ia-seguranca/
+│
+├── red-team/
+│   ├── cargos/
+│   │   ├── analista-red-team.md
+│   │   └── pentester.md
+│
+├── purple-team/
+│   ├── cargos/
+│   │   ├── analista-appsec.md
+│   │   ├── threat-modeler.md
+│   │   └── iac-security-engineer.md
+│
+└── iam/
+    ├── cargos/
+    │   ├── analista-iam.md
+    │   ├── engenheiro-iam.md
+    │   └── arquiteto-iam.md
+```
