@@ -1,0 +1,15 @@
+# These are supported funding model platforms
+
+github: []                   # você pode adicionar futuramente, ex.: [ocasi-org]
+patreon:
+open_collective:
+ko_fi:
+liberapay:
+buy_me_a_coffee: lucasapd
+tidelift:
+community_bridge:
+issuehunt:
+lfx_crowdfunding:
+polar:
+thanks_dev: gh/lucasapd-br
+custom: ['https://nubank.com.br/cobrar/b2vj2/68e6ee17-5cf8-4b63-9916-fa16a39ab4cb']
