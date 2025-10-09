@@ -1,3 +1,7 @@
+
+<p align="center"><img width="385" height="385" alt="OCA-logo-cropped" src="https://github.com/user-attachments/assets/e9056b35-21d3-468e-8a9c-278c04b6cb0b" />
+
+
 # 📌 Bem-vindo à OCA  
 
 OCA (Organização de CArreiras): **A comunidade brasileira que padroniza e fortalece as carreiras de tecnologia.**  
