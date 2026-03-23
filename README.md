@@ -72,7 +72,7 @@ Carreiras abordadas:
 
 ---
 
-## 📖 Guias de Padrão
+## 📖 Guias de Padrões
 
 Todos os documentos de padronização e convenções do projeto estão no diretório [`padrões/`](./padrões):  
 
